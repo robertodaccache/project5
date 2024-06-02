@@ -1,0 +1,50 @@
+body {
+    font: bold 1.5em 'Marko One', 'Lato', Georgia, serif;
+    color: black;
+    background-color: lightgray;
+    margin: 0;
+    line-height: 1.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    font-family: 'Lato', Georgia, serif;
+    color: black;
+    background-color: teal;
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    font-family: 'Lato', Georgia, serif;
+    color: teal;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 10px;
+    border: 5px solid teal;
+}
+
+footer {
+    background-color: teal;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Lato', Georgia, serif;
+}
+
+iframe {
+    border: none;
+    width: 100%;
+    height: 315px; 
+    max-width: 560px;
+}
